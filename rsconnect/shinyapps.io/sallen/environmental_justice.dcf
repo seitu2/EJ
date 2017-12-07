@@ -1,0 +1,12 @@
+name: environmental_justice
+title: Environmental Justice
+username:
+account: sallen
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 243063
+bundleId: 1119982
+url: https://sallen.shinyapps.io/environmental_justice/
+when: 1512606527.87642
+asMultiple: FALSE
+asStatic: FALSE
